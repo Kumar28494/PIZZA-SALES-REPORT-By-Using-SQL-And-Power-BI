@@ -5,7 +5,7 @@
 ## Overview:
 This report offers a comprehensive analysis of pizza sales data, utilizing SQL for data extraction and Power BI for visualization. It presents key insights and performance metrics to facilitate informed decision-making.
 
-## Performance Metrics:
+### Performance Metrics:
 - Total Revenue: 817.86K
 - Average Order Value: 38.31
 - Total Orders: 21350
@@ -20,14 +20,14 @@ This report offers a comprehensive analysis of pizza sales data, utilizing SQL f
 - By Revenue:
 - By Quantity:
 - By Orders:
-  ### Trends and Analysis:
+  ## Trends and Analysis:
 - Daily Trend for Total Orders: Visual representation of daily order trends.
 - Total Orders by Order Month: Distribution of orders across months.
 - % Sales by Pizza Category: Pie chart illustrating sales distribution by category.
 - % Sales by Pizza Size: Pie chart showing sales distribution by size.
 - Total Pizza Sold by Pizza Category: Bar chart depicting quantity sold by category.
 
-### Insights:
+## Insights:
 - Identification of top-selling pizzas helps understand customer preferences and optimize inventory management.
 - Analysis of bottom-selling pizzas informs potential menu adjustments or marketing strategies.
 - Monitoring daily trends aids in resource allocation and inventory planning.
