@@ -6,11 +6,11 @@
 This report offers a comprehensive analysis of pizza sales data, utilizing SQL for data extraction and Power BI for visualization. It presents key insights and performance metrics to facilitate informed decision-making.
 
 ### Performance Metrics:
-- Total Revenue: 817.86K
-- Average Order Value: 38.31
-- Total Orders: 21350
+- Total Revenue:817.86K
+- Average Order Value:38.31
+- Total Orders:21350
 - Average Pizza per Order:2.32
-- Total Pizza Sold: 49574
+- Total Pizza Sold:49574
 ## Charts 
 ### Top 5 Pizzas
 - By Revenue: 
